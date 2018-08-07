@@ -1,4 +1,4 @@
-def I_love_you  
+def love 
  Taylor swift = 0 
  until Taylor swift == 13
  puts " I love you Taylor swift"
@@ -6,4 +6,4 @@ def I_love_you
  end 
  end 
  
- I_love_you
+ love
