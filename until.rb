@@ -1,9 +1,9 @@
-def happy_birthday 
- dad = 0 
- while dad < 30 
+def I_love_you  
+ Taylor swift = 0 
+ until Taylor swift = 13
  puts " happy birthday dad"
- dad += 1
+ Taylor Swift += 1
  end 
  end 
  
- happy_birthday 
+ I_love_you
